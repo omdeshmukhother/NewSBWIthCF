@@ -1,0 +1,6 @@
+applications:
+- name: omi2-app
+path: target/SBWIthCF-0.0.1-SNAPSHOT.war
+domain: cfapps.io
+memory: 980M
+instances: 1
