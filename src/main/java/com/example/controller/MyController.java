@@ -13,7 +13,7 @@ public class MyController {
 	{
 		System.out.println("In MyController");
 		
-		model.addAttribute("name", "omkar deshmukh");
+		model.addAttribute("name", "omkar deshmukh2");
 		return "home";
 	}
 
